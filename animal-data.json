@@ -1,0 +1,9 @@
+[
+  { "name": "Mocha", "species": "dog", "color": "brown" },
+  { "name": "Socks", "species": "cat", "color": "gray" },
+  { "name": "Flopsy", "species": "rabbit", "color": "white" },
+  { "name": "Felix", "species": "cat", "color": "orange", "hunger": 70 },
+  { "name": "Cooper", "species": "dog", "color": "golden" },
+  { "name": "Bo", "species": "dog", "color": "black", "hunger": 30 },
+  { "name": "Bugsy", "species": "hamster", "color": "white" }
+]
